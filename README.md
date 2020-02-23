@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-While learning React, I built this game while following their [tutorial](https://reactjs.org/tutorial/tutorial.html).
+While learning React, I built this game while following their [tutorial](https://reactjs.org/tutorial/tutorial.html). You can play the game [here](https://tic-tac-toe-react-tutorial.netlify.com/).
 
 ## Installation
 
